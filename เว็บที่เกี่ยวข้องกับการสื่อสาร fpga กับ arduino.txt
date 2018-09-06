@@ -1,0 +1,3 @@
+http://cpre.kmutnb.ac.th/esl/learning/index.php?start=100
+http://cpre.kmutnb.ac.th/esl/learning/index.php?article=spi-slave-fpga-arduino
+http://cpre.kmutnb.ac.th/esl/learning/index.php?article=fpga_pro_micro_serial
